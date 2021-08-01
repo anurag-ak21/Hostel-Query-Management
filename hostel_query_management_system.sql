@@ -39,7 +39,7 @@ CREATE TABLE `details` (
 --
 
 INSERT INTO `details` (`username`, `password`, `permission`) VALUES
-('Anshumaan Singh', '123@', NULL),
+('Anurag Kashyap', 'ak@123', NULL),
 ('Prof: Jagalingam P', 'tarp', 'Yes');
 
 -- --------------------------------------------------------
